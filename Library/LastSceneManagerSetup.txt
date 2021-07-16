@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SC Pixel Art Top Down - Basic.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
